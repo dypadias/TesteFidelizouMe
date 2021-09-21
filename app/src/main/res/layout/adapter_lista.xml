@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/address"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textAdress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/adress" />
+
+    <TextView
+        android:id="@+id/textCity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/city"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/city2" />
+
+    <TextView
+        android:id="@+id/textCountry2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/country2"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/country" />
+
+    <TextView
+        android:id="@+id/textState2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/state2"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textState"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/state" />
+
+    <TextView
+        android:id="@+id/textWebsite2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Website:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textWebsite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Website" />
+
+    <TextView
+        android:id="@+id/textIbu2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ibu"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textIbu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ibu" />
+
+    <TextView
+        android:id="@+id/textCategory2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category" />
+
+    <TextView
+        android:id="@+id/textAbv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abv:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textAbv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abv" />
+
+    <TextView
+        android:id="@+id/textDescription2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description" />
+
+</LinearLayout>
